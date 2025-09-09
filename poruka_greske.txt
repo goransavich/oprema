@@ -1,0 +1,1 @@
+Greska prilikom povezivanja na bazu, 2003 (HY000): Can't connect to MySQL server on 'localhost:3306' (10061) ,19.02.2025.
